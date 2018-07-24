@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'rails-controller-testing'
 
+gem 'bcrypt', '~> 3.1.12'
+
 group :development, :test do
 
   gem 'sqlite3', '1.3.13'
