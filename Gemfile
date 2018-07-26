@@ -26,6 +26,8 @@ gem 'rails-controller-testing'
 
 gem 'bcrypt', '~> 3.1.12'
 
+gem 'jquery-rails'
+
 group :development, :test do
 
   gem 'sqlite3', '1.3.13'
